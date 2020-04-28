@@ -1,8 +1,8 @@
 $(document).ready(function(){
     // Initiating our Auth0Lock
     let lock = new Auth0Lock(
-        'CLIENT_ID',
-        'CLIENT_DOMAIN',
+        'M8Dfh6U0dWNN6PHo2O6Zw68Fe8A4WRJB',
+        'chetachat.auth0.com',
         {
             auth: {
                 //redirectUrl: 'http://localhost:5000',
